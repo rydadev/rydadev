@@ -8,17 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- ⚡ **I love open source projects**
-
 - 👨‍💻 I'm currently **working on some small projects**
 
-- 📖 I love **open source projects** 💙 
+- 📖 I like to work on **open source projects** 
 
-- 👴 I'm currently **18 years old**
+- 🙋‍♂️ I'm currently **18 years old**
 
-- 🏫 I study **Software Developer** course
+- 🏫 I'm studying for **Software Development**
 
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![  alt text  ](https://img.shields.io/badge/Discord-ryda.nl-5865F2?style=for-the-badge&logo=Discord)
+![VisualStudioCode](https://img.shields.io/badge/visualstudiocode-5865F2?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%23007ACC.svg?style=for-the-badge&logo=lua&logoColor=white) ![Github](https://img.shields.io/badge/github-3670A0?style=for-the-badge&logo=github&logoColor=ffdd54) ![  alt text  ](https://img.shields.io/badge/Discord-ryda.nl-5865F2?style=for-the-badge&logo=Discord)
 
 <img align="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=rydadev&show_icons=true&theme=merko" />
 
