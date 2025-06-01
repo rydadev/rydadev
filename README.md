@@ -1,5 +1,5 @@
 ![MasterHead](https://raw.githubusercontent.com/PolarBearGG/PolarBearGG/master/web-developer.gif)
-<h1 align="center">Hi 👋, I'm Ryda</h1>
+<h1 align="center">Hi 👋, I'm ML</h1>
 <h3 align="center">I'm a Software Developer!!</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -12,7 +12,7 @@
 
 - 📖 I like to work on **open source projects** 
 
-- 🙋‍♂️ I'm currently **18 years old**
+- 🙋‍♂️ I'm currently **20 years old**
 
 - 🏫 I'm studying for **Software Development**
 
