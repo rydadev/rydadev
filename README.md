@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mldev&label=Profile%20views&color=0e75b6&style=flat" alt="mldev" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mlquest&label=Profile%20views&color=0e75b6&style=flat" alt="mlquest" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
@@ -19,6 +19,6 @@
 ![VisualStudioCode](https://img.shields.io/badge/visualstudiocode-5865F2?style=for-the-badge&logo=visualstudiocode&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Lua](https://img.shields.io/badge/lua-%23007ACC.svg?style=for-the-badge&logo=lua&logoColor=white) ![Github](https://img.shields.io/badge/github-3670A0?style=for-the-badge&logo=github&logoColor=ffdd54) ![  alt text  ](https://img.shields.io/badge/Discord-mlquest-5865F2?style=for-the-badge&logo=Discord)
 
 
-<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=mldev&show_icons=true&theme=white" />
+<img align="left" width="49%" src="https://github-readme-stats.vercel.app/api?username=mlquest&show_icons=true&theme=white" />
 
 <img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact" />
